@@ -7,3 +7,4 @@ db=client.employee_db
 collection_name=db["employee_management"]
 collection=db["task_management"]
 employee_collection=db["employee_detail"]
+token_collection=db["token_collection"]
